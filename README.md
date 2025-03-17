@@ -30,13 +30,6 @@ This project demonstrates an end-to-end IoT data processing pipeline using AWS I
 
 ### 3. AWS Serverless Function
 - Implement an AWS Lambda function to process incoming sensor data.
-- Configure the function to react to sensor updates (e.g., trigger alerts when temperature is too low).
-- Provide screenshots of the implementation.
-
-### 4. Testing & Documentation
-- Create 3 test cases to validate system functionality.
-- Measure execution latency and provide logs.
-- Document expected vs. actual results with screenshots.
 
 ## Requirements
 - AWS Account with IoT Core, Lambda, and SES enabled
